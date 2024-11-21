@@ -3,7 +3,8 @@ window.onload = () => {
   const $grid = $('.grid').masonry({
       itemSelector: '.grid-item',
       percentPosition: true,
-      columnWidth: '.grid-sizer'
+      columnWidth: '.grid-sizer',
+      gutter: 15
   });
 
   // Array of image filenames are written in uiImages.js
