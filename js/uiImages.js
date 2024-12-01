@@ -3,5 +3,6 @@ const uiImages = [
     "Foodbar.png",
     "Bakery.png",
     "Get fresh fruits today.png",
-    "Food.png"
+    "Food.png",
+    "FoodZone.png"
 ];
